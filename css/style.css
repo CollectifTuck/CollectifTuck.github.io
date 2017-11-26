@@ -551,3 +551,5 @@ div.object pre.renderjson {
     color: #cab5e3; }
   div.object pre.renderjson .keyword {
     color: #cab5e3; }
+
+#response { width:50% }
